@@ -1,1 +1,9 @@
-console.log('\'Allo \'Allo!');
+(function(window){
+  
+  
+
+
+
+
+  
+})(window)
